@@ -31,6 +31,7 @@ Responsive layout supporting dark mode toggle.
 ## 🖼️ Demo Video
 
 🎥 [Xem video demo (lab1.mp4)](./lab1.mp4)
+https://github.com/user-attachments/assets/08325f8b-f936-4ed2-9a21-eedbe5067929
 
 ## ▶️ Run
 
