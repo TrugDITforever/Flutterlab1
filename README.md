@@ -1,16 +1,34 @@
-# lab1
+# 🌟 Personal Profile App
 
-A new Flutter project.
+## 🎯 Goal
+Learn basic Flutter layout and responsive UI design.
 
-## Getting Started
+## 🧩 Description
+A simple personal portfolio app that displays:
+- Profile picture
+- Basic info (name, role, contact)
+- Skills list
+- Social media links
 
-This project is a starting point for a Flutter application.
+Responsive layout supporting dark mode toggle.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+- Flutter (StatelessWidget)
+- `Column`, `ListTile`, `Card`, `CircleAvatar`
+- Theme switching for dark mode
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
+✅ Personal info section  
+✅ Skill cards  
+✅ Dark mode toggle  
+✅ Responsive layout  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Demo Video
+🎥 <video width="640" controls>
+  <source src="lab1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## ▶️ Run
+```bash
+flutter run -d chrome
